@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**dandevjr/dandevjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Daniel
+💻 Java Software Engineer | Backend Developer  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills & Expertise
+
+🎨 Frontend 
+- HTML, CSS, JavaScript
+- React
+  
+
+⚙️ Backend
+- Java
+- Spring Boot
+- PHP + Laravel
+  
+
+🗄️ Database
+- MySQL
+  
+
+🚀 DevOps
+- Git + GitHub
+- Docker
+- AWS
+  
+
+✅ Testing
+- JUnit
+  
+
+📡 Messaging 
+- Kafka
+  
+
+🤖 AI/ML
+- TensorFlow
+  
+
+🏗️ System Design
+- Microservices (Spring Boot + Docker + Kubernetes)
+  
+
+🔒 Security
+- Spring Security
+  
+
+🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/dan-dev-7abb75232)  
