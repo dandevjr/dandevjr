@@ -1,6 +1,6 @@
 
 Hi, I'm Daniel
-💻 Java Software Engineer | Backend Developer  
+💻 Java Developer
 
 
 🛠 Skills & Expertise
